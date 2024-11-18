@@ -59,7 +59,7 @@ function sendEmail() {
 
     Email.send({
         SecureToken: "7d3bb854-33dd-4436-af35-83e57a641f9c",
-        To: 'mihicom2@gmail.com',
+        To: 'mihilayansachinthana@gmail.com',
         From: "mihicom2@gmail.com",
         Subject: subject.value,
         Body: bodyMassage
